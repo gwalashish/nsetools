@@ -173,7 +173,7 @@ programatically as well.
 
 .. note:: 
 
-    Output has been truncated for better legibility. This is a dictionary with more that thousand 
+    Output has been truncated for better legibility. This is a dictionary with more than thousand 
     entries.
 
 .. note::
